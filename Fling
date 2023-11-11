@@ -1,5 +1,6 @@
 -- MADE BY FLFB
 -- hi
+wait(5)
 local function delayAndTeleport()
     local function teleport()
         local success, err =
